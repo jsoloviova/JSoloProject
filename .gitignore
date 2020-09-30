@@ -1,1 +1,5 @@
 *.xml
+.*
+!.gitignore
+/resources/*
+!resources/resource1.xml
