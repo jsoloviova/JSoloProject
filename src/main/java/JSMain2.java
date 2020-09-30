@@ -4,6 +4,5 @@ public class JSMain2 {
         System.out.println("YAY!!");
 
         String str2 = "Boom";
-        System.out.println(str2);
     }
 }
