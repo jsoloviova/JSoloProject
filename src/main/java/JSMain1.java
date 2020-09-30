@@ -7,5 +7,7 @@ public class JSMain1 {
         System.out.println("YAY!!");
 
         System.out.println("new branch - feature");
+
+        System.out.println("HOT FIX!!!");
     }
 }
